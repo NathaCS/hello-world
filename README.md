@@ -20,4 +20,4 @@ In my professional experience I currently have 3 years of experience performing 
 While doing QA work I also pursued development work which includes:
   Using Java to fix defects in maintenance projects.
   
-  .
+  
